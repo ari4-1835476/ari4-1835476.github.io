@@ -1,0 +1,53 @@
+#paragraph1{
+    font-family: "Arial";
+    width: 500px;
+}
+
+#paragraph2{
+    font-family: "Times New Raoman";
+    width: 500px;
+    float: right;
+}
+#boxShadow h1{
+    width: 400px;
+    height: 80px;
+    border: 2px;
+    padding: 5px;
+    box-shadow: 5px 20px 15px red;
+}
+
+#pickleRick{
+    width: 300px;
+    height: 150px;
+    position: relative;
+    text-align: center;
+    float: right;
+}
+
+#pickleRick p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#margins img{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#dotBorder{
+    border-color: red;
+    border-style: dotted;
+}
+
+
+#link{
+    width: l00px;
+    border: solid 5px blueviolet;
+    border-radius: 10px;
+}
+
+  
